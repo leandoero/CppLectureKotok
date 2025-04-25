@@ -4,6 +4,9 @@
 using namespace std;
 
 //https://codeforces.com/group/PZJYXH0KrS/contest/581398
+//https://habr.com/ru/articles/661577/
+//https://www.youtube.com/watch?v=4iDv8Zu8L3I
+//https://www.youtube.com/watch?v=3-XLRh2M5YI&list=PLGhUJWLZ8uQ69hYB-AtVCerJ5yqh_5awR&index=3
 
 
 void bfs(vector<vector<int>>& adj, vector<bool>& used, int start) {
